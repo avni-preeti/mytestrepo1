@@ -1,6 +1,5 @@
 Modifying as checkbots 
 
-Checking for pull request
 
 Checking for pull request
 
