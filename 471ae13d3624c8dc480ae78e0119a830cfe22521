@@ -1,0 +1,11 @@
+{
+  "built_on": "master",
+  "duration": 4.996999887,
+  "full_display_name": "mytestrepo #130",
+  "id": "2014-02-03_18-28-01",
+  "number": 130,
+  "result": "FAILURE",
+  "status_message": "?",
+  "time": "2014-02-03 18:28:01 -0800",
+  "url": "job/mytestrepo/130/"
+}
